@@ -1,4 +1,4 @@
-# 📊 Netfix Dashboard [Using Tableau] 
+# 📊 Netflix Dashboard [Using Tableau] 
 This is a Data Visualization project where I created an interactive Netflix Content Dashboard using Tableau. The dashboard provides key insights about the content library of Netflix, such as:
  - Distribution of Movies vs TV Shows
  - Content added over the years
